@@ -121,8 +121,8 @@ Strategic columns were engineered in MySQL to drive deeper insights:
 3. **Revenue & Product Optimization**
 - Inventory Optimization: Launch "Pre-Arrival Upsell" campaigns.the data shows Room Type A is over-capacity but low-margin ($92 ADR); moving these guests into under-utilized Premium rooms (Types H,G,F,C) (with the ADR of 189,177,168,161 respectively) maximizes total ADR and clears space for last-minute budget bookings.
 
-- Institutionalize Proactive Upgrades:the Data proves that room reassignments trigger guest commitment, reducing cancellation probability by 85%. Use your MySQL flags to identify high-risk profiles and offer proactive upgrades to "lock in" the stay.
-
+- Institutionalize Proactive Upgrades:the Data proves that room reassignments trigger guest commitment, reducing cancellation probability by 85%.
+  
 4. **Operational & Demographic Targeting**
    
 - Seasonal Operations Scaling: Management should scale staffing and parking infrastructure specifically for the August peak (11.2K bookings). Conversely, pivot to "Domestic Staycation" packages in November and December to mitigate the 50% winter slump.
@@ -131,4 +131,4 @@ Strategic columns were engineered in MySQL to drive deeper insights:
 
 
 ### 📊 Project Deliverables
-- **Interactive Dashboard:** [View Power BI File & Presentation on Google Drive]((https://drive.google.com/drive/folders/1lhtg-hgr4-6WLJfxzbFDDPcBnIWA2UxP?usp=sharing))
+- **Interactive Dashboard:** [View Power BI File & Presentation on Google Drive](https://drive.google.com/drive/folders/1lhtg-hgr4-6WLJfxzbFDDPcBnIWA2UxP?usp=sharing)
